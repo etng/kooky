@@ -3,9 +3,9 @@ package dillo
 import (
 	"net/http"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/netscape"
+	"github.com/etng/kooky"
+	"github.com/etng/kooky/internal/cookies"
+	"github.com/etng/kooky/internal/netscape"
 )
 
 func ReadCookies(filename string, filters ...kooky.Filter) ([]*kooky.Cookie, error) {

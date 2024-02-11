@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
+	"github.com/etng/kooky"
+	"github.com/etng/kooky/internal/cookies"
 
 	"golang.org/x/text/encoding/charmap"
 )

@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/utils"
+	"github.com/etng/kooky"
+	"github.com/etng/kooky/internal/utils"
 
 	"github.com/bobesa/go-domain-util/domainutil"
 )

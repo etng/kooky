@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/browserutils/kooky"
+	"github.com/etng/kooky"
 )
 
 const httpOnlyPrefix = `#HttpOnly_`

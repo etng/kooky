@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/firefox"
+	"github.com/etng/kooky"
+	"github.com/etng/kooky/internal/cookies"
+	"github.com/etng/kooky/internal/firefox"
 )
 
 type browshFinder struct{}

@@ -1,8 +1,8 @@
 package kooky_test
 
 import (
-	"github.com/browserutils/kooky"
-	_ "github.com/browserutils/kooky/browser/all" // register cookiestore finders
+	"github.com/etng/kooky"
+	_ "github.com/etng/kooky/browser/all" // register cookiestore finders
 )
 
 var cookieName = `NID`

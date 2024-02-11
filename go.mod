@@ -1,4 +1,4 @@
-module github.com/browserutils/kooky
+module github.com/etng/kooky
 
 go 1.18
 

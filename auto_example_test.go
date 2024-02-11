@@ -3,9 +3,9 @@ package kooky_test
 import (
 	"fmt"
 
-	"github.com/browserutils/kooky"
-	_ "github.com/browserutils/kooky/browser/all" // This registers all cookiestore finders!
-	// _ "github.com/browserutils/kooky/browser/chrome" // load only the chrome cookiestore finder
+	"github.com/etng/kooky"
+	_ "github.com/etng/kooky/browser/all" // This registers all cookiestore finders!
+	// _ "github.com/etng/kooky/browser/chrome" // load only the chrome cookiestore finder
 )
 
 func ExampleReadCookies_all() {
